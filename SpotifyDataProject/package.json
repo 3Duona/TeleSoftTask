@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1486.0",
-    "csv-parser": "^3.0.0"
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "pg-promise": "^11.5.4"
   }
 }

@@ -11,8 +11,8 @@ const artistsData = [];
 const tracksData = [];
 
 AWS.config.update({
-  accessKeyId: "AKIA5QQK7CIOQWP5TMXT",
-  secretAccessKey: "UXtgXsWRO0Q1Tmf4l655vlncuYbl7GbgteoRmSuf",
+  accessKeyId: "yourkey",
+  secretAccessKey: "yoursecretkey",
   region: "eu-north-1",
 });
 
